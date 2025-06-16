@@ -1,1 +1,1 @@
-This is just a quick read me for the notebook files. Main thing you would need is to unzip the images_training_rev1.zip folder then run the notebook.
+This is just a quick read me for the notebook files. Main thing you would need is to unzip the images_training_rev1.zip file inside the images folder then run the notebook. I could not get the .zip uploaded onto Git.
