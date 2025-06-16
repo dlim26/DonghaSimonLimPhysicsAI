@@ -16,3 +16,7 @@ where x is the number of the desired exercise.
 I apologize for the poor quality of the Git Repository. I had many troubles with the submission, so I moved over the a Git Repository instead. However, it is taking quite a while to upload everything I have on my computer onto Git, so not everything may be in the repository before midnight.
 
 I also didn't realize I needed everything in the form of python files, so I utilized a lot of Copilot to move everything over to python files, and thus not everything may be polished (mainly just commenting). However, it is more or less the same as whatever the notebook contains.
+
+If you wish to run this, I am sorry, but due to the file size restrictions, you'll have to unzip the images_training_rev1.zip in the notebook folder's data/images subdirectory, then run the notebook. If you wish to run the python files, you'll have to move the new files in the data subdirectory from the notebook folder to the data directory for the galaxyzoo folder to their corresponding counterparts.
+
+If you have any issues, please contact me via email: dlim26@bu.edu
