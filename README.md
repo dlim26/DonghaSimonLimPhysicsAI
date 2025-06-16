@@ -14,3 +14,5 @@ where x is the number of the desired exercise.
 
 
 I apologize for the poor quality of the Git Repository. I had many troubles with the submission, so I moved over the a Git Repository instead. However, it is taking quite a while to upload everything I have on my computer onto Git, so not everything may be in the repository before midnight.
+
+I also didn't realize I needed everything in the form of python files, so I utilized a lot of Copilot to move everything over to python files, and thus not everything may be polished (mainly just commenting). However, it is more or less the same as whatever the notebook contains.
